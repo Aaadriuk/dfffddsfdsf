@@ -1,0 +1,35 @@
+clans:
+  data:
+    86b43a72-8172-38a6-b907-37d5f9e039f3:
+      clanOwner: 86b43a72-8172-38a6-b907-37d5f9e039f3
+      clanOwnerName: ADRIANMLG2
+      clanFinalName: ORGICLAN
+      clanPrefix: ricardopro12lojs
+      clanMembers: []
+      clanAllies: []
+      clanEnemies: []
+      friendlyFire: true
+      clanPoints: 0
+    cffbe749-d456-3312-a5b1-d3e4141d0d6d:
+      clanOwner: cffbe749-d456-3312-a5b1-d3e4141d0d6d
+      clanOwnerName: Gatomomos
+      clanFinalName: Gatomomos
+      clanPrefix: Gatomomos
+      clanMembers: []
+      clanAllies: []
+      clanEnemies: []
+      friendlyFire: true
+      clanPoints: 0
+    5a36786f-2473-3746-be89-c74aaec611db:
+      clanOwner: 5a36786f-2473-3746-be89-c74aaec611db
+      clanOwnerName: TixerMiner
+      clanFinalName: BladeMaster
+      clanPrefix: BladeMaster
+      clanMembers:
+      - f75f1eb6-345a-365a-bbaa-2397f718c175
+      - 5d90f48b-de20-327b-8c70-6ae3f2215b45
+      clanAllies: []
+      clanEnemies: []
+      friendlyFire: false
+      clanPoints: 0
+name-strip-colour-complete: true

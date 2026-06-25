@@ -1,0 +1,112 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 10.119.209.96
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1782186969220
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1782187099368
+  login: 1782168897026
+money: '0'
+last-account-name: Manuelito79_0
+logoutlocation:
+  world: dcb29e81-411d-45f6-bd13-ad7a591166a9
+  world-name: world_the_end
+  x: 158.30000001192093
+  y: 58.0
+  z: -1445.300000011921
+  yaw: -131.70140075683594
+  pitch: 18.29998779296875
+lastlocation:
+  world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+  world-name: world
+  x: 108.5
+  y: 51.0
+  z: -232.5
+  yaw: -95.39105224609375
+  pitch: 29.099977493286133
+homes:
+  de:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 109.69999998807907
+    y: 51.0
+    z: -233.69999998807907
+    yaw: 62.7088623046875
+    pitch: 17.24997329711914
+  ignacio:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 2083.505478988425
+    y: -9.0
+    z: -367.78530827371344
+    yaw: 81.44925689697266
+    pitch: 2.999987840652466
+  jorge:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 80.25484522110712
+    y: 76.0
+    z: -1509.283621337379
+    yaw: 16.95013427734375
+    pitch: 40.649993896484375
+  xd:
+    world: 35a6649e-7bb1-4540-8ec3-dc97c640532d
+    world-name: world_nether
+    x: 203.58866852316447
+    y: 10.0
+    z: -57.68607280328693
+    yaw: -33.878662109375
+    pitch: 32.84998321533203
+  kk:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: -1230.465351794401
+    y: 64.0
+    z: -492.5435012861618
+    yaw: -168.88882446289062
+    pitch: 31.350040435791016
+  end:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 1443.2837287349964
+    y: -24.0
+    z: 1094.871635873143
+    yaw: 10.500359535217285
+    pitch: 51.60002517700195
+  chula:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 1880.6959544337747
+    y: 64.0
+    z: -175.20296811816377
+    yaw: -109.8272476196289
+    pitch: 31.0499324798584
+  kk2:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 1956.117880111141
+    y: -29.0
+    z: -141.98489508835118
+    yaw: 9.271949768066406
+    pitch: 28.349952697753906
+  pepe:
+    world: dcb29e81-411d-45f6-bd13-ad7a591166a9
+    world-name: world_the_end
+    x: 18.294812363175343
+    y: 57.0
+    z: -1201.584090934894
+    yaw: -174.1514434814453
+    pitch: 45.15005874633789

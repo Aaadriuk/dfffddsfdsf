@@ -1,0 +1,112 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 10.119.209.135
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1782252604185
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1782252463557
+  login: 1782252495135
+money: '0'
+last-account-name: Gatomomos
+lastlocation:
+  world: dcb29e81-411d-45f6-bd13-ad7a591166a9
+  world-name: world_the_end
+  x: -5725.485221163729
+  y: 103.0
+  z: -4117.585394155698
+  yaw: -90.30780029296875
+  pitch: 13.200006484985352
+logoutlocation:
+  world: dcb29e81-411d-45f6-bd13-ad7a591166a9
+  world-name: world_the_end
+  x: -5705.259566413205
+  y: 79.3382159025353
+  z: -4142.492689007741
+  yaw: -9.907597541809082
+  pitch: 90.0
+homes:
+  home:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 117.6273106847783
+    y: 64.0
+    z: -224.13249132508113
+    yaw: 157.66802978515625
+    pitch: 6.14997673034668
+  aldea:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 1887.790677875297
+    y: 65.5
+    z: -155.76665132420567
+    yaw: -71.42739868164062
+    pitch: 20.999921798706055
+  casta:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 53.53357636473054
+    y: 75.0
+    z: -219.53319901061974
+    yaw: 0.768341064453125
+    pitch: 8.25002670288086
+  strongold:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 1443.8456615364246
+    y: -24.0
+    z: 1095.5218647044992
+    yaw: -99.4498291015625
+    pitch: 28.649999618530273
+  aldeanos:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: -4246.406360137956
+    y: 64.0
+    z: -2385.3015468021786
+    yaw: 167.84939575195312
+    pitch: 8.550089836120605
+  spya:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: -1217.726647017052
+    y: 58.0
+    z: -488.66036999900933
+    yaw: -45.73894500732422
+    pitch: 0.4500123858451843
+  chistrian:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: -1232.8901755902195
+    y: 64.0
+    z: -493.5668775079741
+    yaw: 105.16122436523438
+    pitch: 7.350024700164795
+  elitras:
+    world: dcb29e81-411d-45f6-bd13-ad7a591166a9
+    world-name: world_the_end
+    x: -8.399971310243995
+    y: 58.0
+    z: -1035.5793108411087
+    yaw: 134.7002410888672
+    pitch: 2.2498724460601807
+  barco:
+    world: dcb29e81-411d-45f6-bd13-ad7a591166a9
+    world-name: world_the_end
+    x: -5725.283883059478
+    y: 126.5
+    z: -4120.640964775316
+    yaw: -175.65760803222656
+    pitch: 19.650014877319336

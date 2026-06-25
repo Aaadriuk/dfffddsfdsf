@@ -1,0 +1,136 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 10.119.209.110
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1782292180269
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1782203473470
+  login: 1782290454332
+money: '0'
+last-account-name: TixerMiner
+logoutlocation:
+  world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+  world-name: world
+  x: -5566.725126057469
+  y: 6.0
+  z: -5657.482073247707
+  yaw: 84.45709228515625
+  pitch: 5.850120544433594
+lastlocation:
+  world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+  world-name: world
+  x: -1234.5637249309898
+  y: 64.0
+  z: -493.7691745870028
+  yaw: -17.386966705322266
+  pitch: 21.899883270263672
+homes:
+  home:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: -1246.555595582423
+    y: 72.0
+    z: -489.38466020834073
+    yaw: -1.3369140625
+    pitch: 19.49989128112793
+  cueva:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: -1322.699999988079
+    y: 22.0
+    z: -234.47087361157983
+    yaw: -151.34942626953125
+    pitch: 26.70003890991211
+  rota:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: -1631.5761518491395
+    y: -49.0
+    z: -244.69999998807907
+    yaw: 0.16064453125
+    pitch: 72.44995880126953
+  de:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 99.0056187051678
+    y: 31.0
+    z: -302.70425176429274
+    yaw: -58.069091796875
+    pitch: 16.499975204467773
+  juego:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: -2436.500998317284
+    y: -24.0
+    z: -2028.772366807821
+    yaw: -125.9818115234375
+    pitch: 66.15003967285156
+  end:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: -3840.0412171012467
+    y: 43.0
+    z: -3678.604401274707
+    yaw: 1.65312922000885
+    pitch: 17.550004959106445
+  bastion:
+    world: 35a6649e-7bb1-4540-8ec3-dc97c640532d
+    world-name: world_nether
+    x: -677.6999999880791
+    y: 35.0
+    z: -348.3430025350501
+    yaw: -149.69830322265625
+    pitch: -6.149995803833008
+  jajaja:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 2079.3186009219653
+    y: -15.0
+    z: -369.281025700959
+    yaw: -98.70085906982422
+    pitch: 60.45001220703125
+  base:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: 98.76807322197867
+    y: 31.0
+    z: -302.3695217825292
+    yaw: -58.069091796875
+    pitch: 16.499975204467773
+  playa:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: -727.6241268394947
+    y: 63.0
+    z: -1121.818903802072
+    yaw: 37.293521881103516
+    pitch: 21.900114059448242
+  casa:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: -5571.636062492167
+    y: 66.0
+    z: -5668.615778679731
+    yaw: -78.74006652832031
+    pitch: 29.249958038330078
+  bunker:
+    world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+    world-name: world
+    x: -5576.383535418963
+    y: 6.0
+    z: -5657.58469818256
+    yaw: -82.640380859375
+    pitch: 18.149877548217773
