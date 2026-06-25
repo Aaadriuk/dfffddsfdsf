@@ -12,13 +12,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1782368215204
+  lastteleport: 1782369933742
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1782204548518
-  login: 1782367380808
+  login: 1782369432405
 money: '0'
 last-account-name: jax2f
 logoutlocation:
@@ -137,8 +137,8 @@ homes:
 lastlocation:
   world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
   world-name: world
-  x: -5567.38241670457
-  y: 6.0
-  z: -5657.123653565316
-  yaw: -79.799560546875
-  pitch: 22.049989700317383
+  x: 106.83550012053503
+  y: 50.0
+  z: -230.8480183456412
+  yaw: -111.01728820800781
+  pitch: 6.450006008148193
